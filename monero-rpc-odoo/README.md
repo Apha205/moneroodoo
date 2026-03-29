@@ -79,7 +79,7 @@ See the [Monero Wallet RPC docs](https://www.getmonero.org/resources/developer-g
 
 The demo runs on a self-hosted Odoo 19 instance tunnelled through **ngrok** — providing a public HTTPS URL without a dedicated server or SSL certificate.
 
-**Demo store:** https://griffinish-yuette-nonevadingly.ngrok-free.app
+**Demo store:** https://griffinish-yuette-nonevadingly.ngrok-free.dev
 
 Browse products, go through checkout, and pay with stagenet XMR.
 
